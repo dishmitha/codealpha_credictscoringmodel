@@ -128,15 +128,12 @@ A user-friendly Streamlit application was developed to allow users to enter cust
 ```text
 CodeAlpha_CreditScoringModel/
 │
-├── dataset/
-│   └── credit_risk_dataset.csv
+├── credit_risk_dataset.csv
 │
 ├── Credit_Scoring_Model.ipynb
 ├── app.py
-├── credit_scoring_model.pkl
 ├── requirements.txt
-├── README.md
-└── screenshots/
+├── README.md/
 ```
 
 ---
@@ -176,4 +173,3 @@ The Random Forest model delivered excellent predictive performance with an accur
 **Dishmitha**
 
 
-CodeAlpha Machine Learning Internship
